@@ -1,0 +1,1 @@
+{"rsync":{"/home/vagrant/sync":{"type":"rsync","guestpath":"/home/vagrant/sync","hostpath":"/home/gkadam/Documents/caas_log_validation/21759/1/vagrant/centos","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
